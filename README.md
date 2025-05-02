@@ -6,18 +6,31 @@
 
 <h4 align="center">Passionate About Web Development.</h4>
 
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KrisnaUdayana.KrisnaUdayana&"  />
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=KrisnaUdayana%2FKrisnaUdayana&type=unique)
+
 </div>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrisnaUdayana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KrisnaUdayana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krisnaudayana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisnaudayana&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <h3 align="left">⚡ Lets Connect :</h3>
 
